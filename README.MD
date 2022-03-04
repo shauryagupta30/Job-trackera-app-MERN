@@ -1,9 +1,17 @@
 #### Project Setup
 
-In order to spin up the project, in the root create .env with these two variables, with your own values.
 
 MONGO_URI
+
 JWT_SECRET
+
+#Access the API documentation here : https://job-api-shaurya.herokuapp.com/api-docs/
+
+![Uploading image.png…]()
+
+
+#Access the Frontend Application using the API in backend here :  https://frontend-jobs-shaurya.herokuapp.com/
+
 
 After that run this command
 
